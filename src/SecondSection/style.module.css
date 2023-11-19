@@ -1,0 +1,21 @@
+.bg{
+background-color:red ;
+}
+
+.details{
+  position: relative;
+  top: 360px;
+  background-color: #FFD5FF;
+
+}
+.details2{
+
+ position: relative;
+ top: 360px;
+ background-color: #FDF5BF
+}
+.detailsBook{
+  position: relative;
+  top: 360px;
+  background-color: cadetblue;
+}
